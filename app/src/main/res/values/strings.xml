@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weather">Weather</string>
+    <string name="home">home</string>
+    <string name="info">Info</string>
+    <string name="info2">info</string>
+    <string name="weather_app">Weather App</string>
+    <string name="no_description">No description</string>
+    <string name="wind_speed_m_s">Wind Speed: %1$s  m/s</string>
+    <string name="c">%1$s°C</string>
+    <string name="loading_weather">Loading weather...</string>
+    <string name="error">Error: %1$s</string>
+    <string name="no_data_available">No data available</string>
+    <string name="home2">home</string>
+    <string name="info_screen">Info Screen</string>
+    <string name="this_app_fetches_data_from_https_openweathermap_org_and_oulu_is_used_as_hardcoded_location">This app fetches data from https://openweathermap.org/ and Oulu is used as hardcoded location.</string>
+    <string name="data_is_updated_every_10_minutes_icon_is_displayed_using_coil_library">" Data is updated every 10 minutes. Icon is displayed using Coil library."</string>
+</resources>
